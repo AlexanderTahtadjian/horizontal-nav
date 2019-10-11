@@ -17,6 +17,7 @@ nav ol {
   color: #fff;
   list-style-type: none;
   font-weight: none;
+  display: inline-block;
   font-size: 1.125rem;
 }
 
@@ -36,4 +37,14 @@ nav a {
 
 a:hover {
   background-color: #f33;
+}
+
+header {
+  display: inline-block;
+  margin: 0 .5em 1em;
+  max-width: 20em;
+  padding: 1em;
+  background-color: #79756f;
+  border: 3px solid #595652;
+  text-align: left;
 }
