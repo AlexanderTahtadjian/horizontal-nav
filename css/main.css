@@ -30,7 +30,10 @@ nav a {
   max-width: 20em;
   padding: .6em .5em .75em;
   background-color: #713837;
-  border: 1px solid #f33;
   border-radius: 10px;
   text-align: left;
+}
+
+a:hover {
+  background-color: #f33;
 }
