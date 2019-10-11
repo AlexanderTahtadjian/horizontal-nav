@@ -5,6 +5,14 @@ html {
   line-height: 1.5;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  color: #fff;
+}
+
 nav ol {
   color: #fff;
   list-style-type: none;
@@ -12,10 +20,17 @@ nav ol {
   font-size: 1.125rem;
 }
 
-h1 {
+nav a {
   color: #fff;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
+  font-weight: normal;
+  font-family: Georgia:sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 .5em 1em;
+  max-width: 20em;
+  padding: 1em;
+  background-color: #713837;
+  border: 1px solid #f33;
+  border-radius: 10px;
+  text-align: left;
 }
