@@ -26,9 +26,9 @@ nav a {
   font-family: Georgia:sans-serif;
   text-decoration: none;
   display: inline-block;
-  margin: 0 .5em 1em;
+  margin: .3em;
   max-width: 20em;
-  padding: 1em;
+  padding: .6em .5em .75em;
   background-color: #713837;
   border: 1px solid #f33;
   border-radius: 10px;
