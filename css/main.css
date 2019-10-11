@@ -6,7 +6,12 @@ html {
 }
 
 nav ol {
+  color: #fff;
   list-style-type: none;
-  font-weight: bold;
+  font-weight: none;
   font-size: 1.125rem;
+}
+
+h1 {
+  color: #fff;
 }
