@@ -17,7 +17,7 @@ h1 {
 nav ol {
   color: #fff;
   list-style-type: none;
-  font-weight: none;
+  font-weight: normal;
   display: inline-block;
   font-size: 1.125rem;
 }
