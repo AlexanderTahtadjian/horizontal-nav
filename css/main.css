@@ -40,6 +40,10 @@ a:hover {
   background-color: #f33;
 }
 
+li a {
+  font-family: Georgia: sans-serif;
+}
+
 header {
   background-color: #79756f;
   border: 10px solid #595652;
