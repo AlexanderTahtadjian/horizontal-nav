@@ -1,8 +1,6 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  font-family: Bevan, serif;
-  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -12,9 +10,11 @@ html {
 h1 {
   color: #fff;
   text-align: center;
+  font-family: Bevan, serif;
+  line-height: 1.5;
 }
 
-nav ul {
+ul {
   color: #fff;
   list-style-type: none;
   font-weight: normal;
@@ -22,10 +22,10 @@ nav ul {
   font-size: 1.125rem;
 }
 
-nav a {
+a {
   color: #fff;
   font-weight: normal;
-  font-family: Georgia: sans-serif;
+  font-family: sans-serif;
   text-decoration: none;
   display: inline-block;
   margin: .3em;
@@ -41,7 +41,7 @@ a:hover {
 }
 
 li a {
-  font-family: Georgia: sans-serif;
+  font-family: sans-serif;
 }
 
 header {
