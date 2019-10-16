@@ -14,16 +14,15 @@ h1 {
   line-height: 1.5;
 }
 
-nav {
-  display: inline-block;
-  margin: 0 auto;
+nav ul {
+  text-align: center;
+  margin: 0;
 }
 
 ul {
   color: #fff;
   list-style-type: none;
   font-weight: normal;
-  display: inline-block;
   font-size: 1.125rem;
 }
 
