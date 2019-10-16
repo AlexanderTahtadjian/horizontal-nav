@@ -49,3 +49,7 @@ header {
   border: 10px solid #595652;
   text-align: left;
 }
+
+body {
+  margin: 0;
+}
