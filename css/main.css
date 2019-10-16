@@ -16,6 +16,7 @@ h1 {
 
 nav {
   display: inline-block;
+  margin: 0 auto;
 }
 
 ul {
@@ -54,6 +55,7 @@ header {
   background-color: #79756f;
   border: 3px solid #595652;
   text-align: left;
+  margin: 0 auto;
 }
 
 body {
