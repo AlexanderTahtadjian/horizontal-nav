@@ -1,6 +1,8 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
+  line-height: 1.5;
+
 }
 
 *, *::before, *::after {
@@ -11,8 +13,6 @@ h1 {
   color: #fff;
   text-align: center;
   font-family: Bevan, serif;
-  line-height: 1.5;
-  margin-bottom: .1em;
 }
 
 nav ul {
@@ -26,6 +26,7 @@ ul {
   font-weight: normal;
   font-size: 1.125rem;
   padding: 0;
+  margin: 0 0 .3em;
 }
 
 a {
@@ -34,8 +35,6 @@ a {
   font-family: sans-serif;
   text-decoration: none;
   display: inline-block;
-  margin: .3em 0;
-  max-width: 20em;
   padding: .6em .5em .75em;
   background-color: #713837;
   border-radius: 4px;
